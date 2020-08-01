@@ -26,7 +26,7 @@ Flask-HTTPAuth==3.2.4
 gpg===1.13.1-unknown
 greenlet==0.4.15
 html5lib==1.0.1
-httplib2==0.14.0
+httplib2==0.18.0
 idna==2.8
 isort==4.3.21
 itsdangerous==1.1.0
